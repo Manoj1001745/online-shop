@@ -3,6 +3,15 @@ import React from 'react'
 function About() {
   return (
     <>
+
+    <section className='py-4'>
+  <div className="container justify-center">
+    <img className='w-100 ' src="https://chakrapath.com/wp-content/uploads/2024/12/610-4-1-GIF-Laxmi-sunrise-TVc_-720x80px.gif" alt="" />
+  </div>
+</section>
+
+
+
     <section>
         <div className="container py-5">
             <div className="row">

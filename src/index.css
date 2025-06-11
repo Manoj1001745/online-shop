@@ -7,6 +7,14 @@
     overflow: hidden;
   }
   
+  nav{
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: fixed;
+  z-index: 1000;
+  }
+
 
   /* login page css start */ 
 
